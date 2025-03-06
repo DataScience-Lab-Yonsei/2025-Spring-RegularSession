@@ -3,4 +3,4 @@
 
 **Q1.** RNN Captioning
 
-**Q2.** Vit
+**Q2.** ViT
